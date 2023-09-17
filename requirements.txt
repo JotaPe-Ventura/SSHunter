@@ -1,0 +1,7 @@
+paramiko
+pyfiglet
+socket
+logging
+argparse
+colorama
+time
