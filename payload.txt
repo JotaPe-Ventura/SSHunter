@@ -3,6 +3,7 @@ root
 Administrator
 sysadm
 tech
+death4me
 operator
 guest
 security
